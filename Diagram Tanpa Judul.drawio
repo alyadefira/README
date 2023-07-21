@@ -1,84 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T13:45:36.840Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zYq01cY6EbEJ9lr4B64d" version="21.6.5" type="github">
-  <diagram name="Halaman-1" id="nW171lMLRgR5YmXYpDXi">
-    <mxGraphModel dx="1280" dy="934" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-07-21T13:50:02.674Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.6.5" etag="ZFOPtnPjgsBo1n30tyTU" type="github">
+  <diagram name="Halaman-1" id="fywkXr1uEPh9lrm1IzcE">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gbOXGPvROOllln2cPcEf-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-1" target="gbOXGPvROOllln2cPcEf-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="415" y="-33" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-1" value="1.&lt;br&gt;Form&lt;br&gt;&amp;nbsp;Pengaduan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-97" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.633;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-2" target="gbOXGPvROOllln2cPcEf-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-13" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Menerima laporan kendala&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gbOXGPvROOllln2cPcEf-12">
-          <mxGeometry x="-0.1451" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-2" value="2.&lt;br&gt;Pengaduan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="168" y="94" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-3" target="gbOXGPvROOllln2cPcEf-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-138" y="347" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Data respon&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gbOXGPvROOllln2cPcEf-19">
-          <mxGeometry x="0.3443" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-3" value="3.&lt;br&gt;Respon" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="168" y="285" width="128" height="128" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-5" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.414;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-4" target="gbOXGPvROOllln2cPcEf-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Data pengaduan&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gbOXGPvROOllln2cPcEf-5">
-          <mxGeometry x="-0.1177" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.008;entryY=0.445;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-4" target="gbOXGPvROOllln2cPcEf-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-81" y="152" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-10" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Laporan pengaduan&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gbOXGPvROOllln2cPcEf-9">
-          <mxGeometry x="0.0988" y="2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-4" value="IT Staff" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-171" y="-75" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-7" value="Pengaduan" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="445" y="-70" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gbOXGPvROOllln2cPcEf-11" target="gbOXGPvROOllln2cPcEf-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="595" y="349" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-18" value="&lt;span style=&quot;font-size: 13px;&quot;&gt;Respon pengaduan&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="gbOXGPvROOllln2cPcEf-14">
-          <mxGeometry x="0.302" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="gbOXGPvROOllln2cPcEf-11" value="Teknisi" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="532" y="121" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
